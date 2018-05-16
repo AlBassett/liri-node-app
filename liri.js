@@ -5,8 +5,17 @@
 
 
 //these add other programs to this one
-var dataKeys = require("./keys.js");
+var Keys = require("./keys.js");
 var fs = require('fs'); 
 var twitter = require('twitter');
 var spotify = require('spotify');
 var request = require('request');
+
+//Function for finding songs on Spotify
+
+
+
+//Requesting tweets from Twitter
+
+
+//Searcing OMDB
